@@ -1,0 +1,6 @@
+# Auto Configure
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.curtain.aoplog.AopLogProcessor,\
+  com.curtain.aoplog.LogDataAspect,\
+  com.curtain.aoplog.AopLogAutoConfiguration
+
